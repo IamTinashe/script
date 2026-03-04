@@ -27,9 +27,9 @@
 
 > "Every performance cycle starts with **Job Descriptions**—but these aren't static documents.
 >
-> Each role defines reporting relationships, authority limits, qualification requirements, and critically—**Key Result Areas** organized under Balanced Scorecard perspectives: Financial, Customer, Internal Processes, and Learning & Growth.
+> Each role defines reporting relationships, authority limits, qualification requirements, and critically—**Key Result Areas** namely: Financial, Customer, Internal Processes, and Learning & Growth.
 >
-> The org chart is generated automatically from these relationships. When a JD changes, the hierarchy updates. When you assign an employee to a role, their BSC inherits the KRAs directly—no duplicate data entry."
+> The org chart is generated automatically from these relationships. When a JD changes, the hierarchy updates."
 
 ---
 
@@ -39,11 +39,11 @@
 
 **SCRIPT:**
 
-> "The **Balanced Scorecard** runs on a weighted formula. Each perspective carries a configurable weight—typically 25% each. Within perspectives, individual KRAs have their own weights.
+> "The **Balanced Scorecard** runs on a weighted formula. Each perspective carries a configurable weight. Within perspectives, individual KRAs have their own weights.
 >
 > Employees enter targets and actuals. The system calculates achievement percentage—with support for both 'maximize' metrics like revenue and 'minimize' metrics like cost overruns, where the formula inverts.
 >
-> Scores roll up automatically. A weighted total of 120% or higher grades as A+. Below 50% flags as F. The ten-point grading scale ties directly to bonus entitlement percentages—giving you a defensible, consistent compensation link.
+> Scores roll up automatically. A weighted total of 120% or higher grades as A+. Below 80% flags. The ten-point grading scale ties directly to bonus entitlement percentages—giving you a consistent compensation link.
 >
 > Quarterly and annual periods are both supported, with annual reviews aggregating quarterly data."
 
